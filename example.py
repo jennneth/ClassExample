@@ -1,2 +1,2 @@
 print("Monquize is sending this to you")
-print("Thanks, seperate branch")
+print("Thanks, separate")
